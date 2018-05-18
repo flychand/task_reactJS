@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  color: #080808;
+  background: #DEE3DE;
+}
+.button4 {background-color: #008CBA;}
+.button5 {background-color: #f44336;}
+
+.print{
+  text-align: left;
+}
